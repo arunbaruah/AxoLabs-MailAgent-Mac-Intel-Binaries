@@ -1,1 +1,1 @@
-## AxoLabs-MailAgent-Mac-Intel-Binaries build with macOS 12.7.6
+Macos-12.7.6 binaries for AxoLabs Mail Agent.
